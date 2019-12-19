@@ -1,0 +1,50 @@
+{
+    "name": "FaxLogic",
+    "description": "FaxLogic provides Internet Fax solutions, including fax machine integration, email-to-fax, fax-to-email, web-fax and secure online archiving of all faxes sent and received. Access your faxes from anywhere using any Internet-connected device, including ...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1615-faxlogic.jpg",
+    "tags": [
+        "api provider",
+        "cloud",
+        "have api",
+        "isp"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/faxlogic\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "FaxLogic",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1615-faxlogic.jpg",
+            "humanURL": "http:\/\/www.faxlogic.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/faxlogic-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.faxlogic.com\/api"
+        },
+        {
+            "type": "Email",
+            "url": "support@faxlogic.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/faxlogic"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.faxlogic.com"
+        }
+    ]
+}
